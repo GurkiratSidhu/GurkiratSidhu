@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GurkiratSidhu
-- 🌱 I’m currently learning Front End Web Dev using JS and React
+- 🌱 I’m currently learning Front End Web Dev using Javascript and React
 - 📫 How to reach me - https://www.linkedin.com/in/gurkiratsidhu/
 
 <!---
