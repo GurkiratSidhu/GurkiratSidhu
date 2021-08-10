@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @GurkiratSidhu
-- 🌱 I’m currently learning Front End Web Dev using Javascript and React
-- :school: CSE grad from Thapar Univrsity, Patiala
+- :computer: I’m currently learning Frontend Web Dev using Javascript and React
+- :school: CSE grad from Thapar University, Patiala
+- :office: Worked as Business Analyst @ Gyandhan.com and Motion Graphics Artist @ 94films.in
+- :hammer_and_wrench: Javascript, React, Tailwind, Html, Css, Sass, Figma
 - 📫 How to reach me - https://www.linkedin.com/in/gurkiratsidhu/
 
 <!---
