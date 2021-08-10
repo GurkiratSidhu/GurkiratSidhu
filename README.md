@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @GurkiratSidhu
 - 🌱 I’m currently learning Front End Web Dev using Javascript and React
+- :school: CSE grad from Thapar Univrsity, Patiala
 - 📫 How to reach me - https://www.linkedin.com/in/gurkiratsidhu/
 
 <!---
