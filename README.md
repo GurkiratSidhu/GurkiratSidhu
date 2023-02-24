@@ -3,7 +3,7 @@
 - :school: Msc. Business Analytics, University of Limerick | CSE undergrad from Thapar University, Patiala
 - :office: Worked as Business Analyst @ Gyandhan.com and Mindscroll.com
 - :movie_camera: Worked as Motion Graohics Artist @ 94films.in
-- :hammer_and_wrench: Javascript, React, Tailwind, Html, Css, Sass, Figma, Adobe After Effects, Adobe Premiere Pro
+- :hammer_and_wrench: Python, SQL, Tableau, R, Javascript, React, Tailwind, Html, Css, Sass, Figma, Adobe After Effects, Adobe Premiere Pro
 - 📫 How to reach me - https://www.linkedin.com/in/gurkiratsidhu/
 
 <!---
