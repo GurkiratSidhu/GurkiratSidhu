@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GurkiratSidhu
-- :computer: I’m currently learning Frontend Web Dev using Javascript and React
+- :computer: Business Analyst (experience in Front end React dev and Video Motion Graphcis)
 - :school: Msc. Business Analytics, University of Limerick | CSE undergrad from Thapar University, Patiala
 - :office: Worked as Business Analyst @ Gyandhan.com and Mindscroll.com
 - :movie_camera: Worked as Motion Graohics Artist @ 94films.in
